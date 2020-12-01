@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello there :wave:
+I'm a CS Student at [University of Economics in Katowice](https://www.ue.katowice.pl/no_cache/en.html)  
+
+I've been programming in python since I was 14, focusing at automation, web scraping, but also web development in Flask and Django.  
+For the last few years I've been looking into web technologies, building dynamic web apps and PWAs with React (often using my [react template](https://github.com/rimmaciej/react-template) :slightly_smiling_face: ).
+
+Lately I started looking at GraphQL to improve my APIs and the way they are consumed at the frontend. A good example of GraphQL (with Apollo frontend and Graphene Django backend) would be the group uni project I'm working on - [home automation](https://github.com/owocowe-piatki/home-automation).
+
+I'm also interested in CI/CD, building development pipelines, containerization and all that stuff.
+
+During my 2020 summer internship I've worked [Netrounds](https://www.netrounds.com/) as a QA Engineer - building unit, integration and system tests, and maintaining and improving the automated test environment. Now I'm focusing on getting started at [Juniper Networks](http://juniper.net/) after the acquisition.
+
+Contact stuff :incoming_envelope:
+- [Email](mailto:contact@mrim.pl)
+- [LinkedIn](https://www.linkedin.com/in/maciej-rim/)   
+- [Personal website](https://mrim.pl)
+
+
 
 <!--
 **rimmaciej/rimmaciej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
