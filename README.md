@@ -8,9 +8,9 @@ Lately I started looking at GraphQL to improve my APIs and the way they are cons
 
 I'm also interested in CI/CD, building development pipelines, containerization and all that stuff.
 
-During my 2020 summer internship I've worked [Netrounds](https://www.netrounds.com/) as a QA Engineer - building unit, integration and system tests, and maintaining and improving the automated test environment. Now I'm focusing on getting started at [Juniper Networks](http://juniper.net/) after the acquisition.
+During my 2020 summer internship I've worked at [Netrounds](https://www.netrounds.com/) as a QA Engineer - building unit, integration and system tests, and maintaining and improving the automated test environment. Now I'm focusing on getting started at [Juniper Networks](http://juniper.net/) after the acquisition.
 
-Contact stuff :incoming_envelope:
+Contact stuff
 - [Email](mailto:contact@mrim.pl)
 - [LinkedIn](https://www.linkedin.com/in/maciej-rim/)   
 - [Personal website](https://mrim.pl)
